@@ -1,0 +1,13 @@
+* {
+  margin: auto;
+  padding: auto;
+  max-height: fit-content;
+  max-lines: inherit;
+}
+
+.container-row {
+  display: block;
+  margin-block-start: 10%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+}

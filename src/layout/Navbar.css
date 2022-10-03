@@ -1,0 +1,12 @@
+.navbar-expand-lg {
+  display: inline-table;
+  font-display: inherit;
+  text-align: end;
+}
+
+.navbar-brand {
+  font-style: inherit;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-display: inherit;
+}
